@@ -3,8 +3,6 @@
 
 Consigo atuar como fullstack, apesar do meu forte ser tela preta, banco de dados e back-end!
 
-Tenho experiencia como desenvolvedor em projetos legados e com tecnologias mais recentes, sempre tento escrever código com alguma qualidade.  
-
 Sou entusiasta do software livre, apaixonado pelo Linux e acho o Scrum fascinante.
 
 --------------------------------------------------------
