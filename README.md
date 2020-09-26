@@ -5,7 +5,9 @@
 
 --------------------------------------------------------
 
-Sou programador, casado com uma programadora e pai de um pequeno programador de dez anos.
+Tenho experiencia como desenvolvedor de sustentação em projetos legados. Consigo atuar como fullstack, apesar do meu forte ser tela preta, banco de dados e back-end!
+
+Sou entusiasta do software livre, apaixonado pelo Linux e acho o Scrum fascinante.
 
 --------------------------------------------------------
 
@@ -13,9 +15,6 @@ Sou programador, casado com uma programadora e pai de um pequeno programador de 
 
 ---------------------------------------------------------
 
-Tenho experiencia como desenvolvedor de sustentação em projetos legados. Consigo atuar como fullstack, apesar do meu forte ser tela preta, banco de dados e back-end!
+Sou programador, casado com uma programadora e pai de um pequeno programador de dez anos. Sou realmente apaixonado pelo que faço e acho que isso acabou contagiando o pobre do meu bacuri.
 
-Sou entusiasta do software livre, apaixonado pelo Linux e acho o Scrum fascinante.
-
-
-
+Ele faz pequenos joguinhos como esse [aqui](https://scratch.mit.edu/projects/422721105/fullscreen/) que você pode tocar um teclado com algumas notas musicais. 
