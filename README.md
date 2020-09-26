@@ -14,3 +14,6 @@ Sou entusiasta do software livre, apaixonado pelo Linux e acho o Scrum fascinant
 ![familia](https://user-images.githubusercontent.com/26856017/94344142-a21a7480-fff3-11ea-9195-dd83918c2361.jpg)
 
 ## Vida Pessoal
+
+
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="pt_BR" data-type="horizontal" data-theme="light" data-vanity="me42th"><a class="LI-simple-link" href='https://br.linkedin.com/in/me42th?trk=profile-badge'>David M.</a></div>
