@@ -1,4 +1,4 @@
-[![me42th](https://img.shields.io/badge/DEV-PHP-green)](https://github.com/me42th?tab=repositories) [![me42th](https://img.shields.io/badge/DEV-LARAVEL-green)](https://github.com/me42th?tab=repositories) [![me42th](https://img.shields.io/badge/LINKEDIN-green)](https://www.linkedin.com/in/me42th/)  
+[![me42th](https://img.shields.io/badge/DEV-PHP-green)](https://github.com/me42th?tab=repositories) [![me42th](https://img.shields.io/badge/DEV-LARAVEL-green)](https://github.com/me42th?tab=repositories)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-green?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/me42th/)](https://www.linkedin.com/in/me42th/)
 ---------------------------------------------------------
 
 Consigo atuar como fullstack, apesar do meu forte ser tela preta, banco de dados e back-end!
@@ -19,5 +19,6 @@ Ele faz pequenos joguinhos como esse **[AQUI](https://scratch.mit.edu/projects/4
 
 ---------------------------------------------------------
 
-
+<p align="center">
 <img src="https://user-images.githubusercontent.com/26856017/94348695-af942680-0014-11eb-9e09-787039ee9894.png" alt="familia" align="center" width="400"/>
+</p>
