@@ -13,7 +13,7 @@ Sou entusiasta do software livre, apaixonado pelo Linux e acho o Scrum fascinant
 
 Sou programador, casado com uma programadora e pai de um pequeno programador de dez anos. Sou realmente apaixonado pelo que faço e acho que isso acabou contagiando o pobre do meu bacuri. 
 
-Ele faz pequenos joguinhos como esse **[AQUI](https://scratch.mit.edu/projects/422721105/fullscreen/)** que você pode tocar um teclado com algumas notas musicais. 
+Ele faz pequenos joguinhos como esse **[AQUI](https://scratch.mit.edu/projects/422721105/fullscreen/)** que fizemos juntos e  meu favorito.
 
 ---------------------------------------------------------
 
