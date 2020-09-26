@@ -1,6 +1,6 @@
 
 
-[![me42th](https://img.shields.io/badge/DEV-PHP-blue)](https://github.com/me42th?tab=repositories) [![me42th](https://img.shields.io/badge/DEV-LARAVEL-green)](https://github.com/me42th?tab=repositories) [David Meth]
+[![me42th](https://img.shields.io/badge/DEV-PHP-blue)](https://github.com/me42th?tab=repositories) [![me42th](https://img.shields.io/badge/DEV-LARAVEL-green)](https://github.com/me42th?tab=repositories) [![me42th](https://img.shields.io/badge/Go-Linkedin-green)](https://www.linkedin.com/in/me42th/) 
 ---------------------------------------------------------
 
 [![7SvE](https://user-images.githubusercontent.com/26856017/89372195-e2c4d400-d6bb-11ea-8dd9-1af0a7bc1e74.gif)](https://www.youtube.com/watch?v=5qap5aO4i9A)
@@ -16,4 +16,3 @@ Sou entusiasta do software livre, apaixonado pelo Linux e acho o Scrum fascinant
 ## Vida Pessoal
 
 
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="pt_BR" data-type="horizontal" data-theme="light" data-vanity="me42th"><a class="LI-simple-link" href='https://br.linkedin.com/in/me42th?trk=profile-badge'>David M.</a></div>
