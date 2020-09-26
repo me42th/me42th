@@ -7,9 +7,8 @@ Sou entusiasta do software livre, apaixonado pelo Linux e acho o Scrum fascinant
 
 --------------------------------------------------------
 
-<p align="center">
 <a href="https://www.youtube.com/watch?v=5qap5aO4i9A"><img src="https://user-images.githubusercontent.com/26856017/89372195-e2c4d400-d6bb-11ea-8dd9-1af0a7bc1e74.gif" alt="familia" align="center" width="400"/></a>
-</p>
+
 
 --------------------------------------------------------
 
@@ -19,6 +18,6 @@ Ele faz pequenos joguinhos como esse **[AQUI](https://scratch.mit.edu/projects/4
 
 ---------------------------------------------------------
 
-<p align="center">
+
 <img src="https://user-images.githubusercontent.com/26856017/94348695-af942680-0014-11eb-9e09-787039ee9894.png" alt="familia" align="center" width="400"/>
-</p>
+
