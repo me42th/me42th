@@ -19,7 +19,3 @@ Ele faz pequenos joguinhos como esse **[AQUI](https://scratch.mit.edu/projects/4
 
 
 <img src="https://user-images.githubusercontent.com/26856017/94344142-a21a7480-fff3-11ea-9195-dd83918c2361.jpg" alt="familia" align="center" width="400"/>
-
----------------------------------------------------------
-
-
