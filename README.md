@@ -1,4 +1,4 @@
-[![me42th](https://img.shields.io/badge/DEV-PHP-green)](https://github.com/me42th?tab=repositories) [![me42th](https://img.shields.io/badge/DEV-LARAVEL-green)](https://github.com/me42th?tab=repositories)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-green?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/me42th/)](https://www.linkedin.com/in/me42th/)
+[![me42th](https://img.shields.io/badge/DEV-PHP-green)](https://github.com/me42th?tab=repositories) [![me42th](https://img.shields.io/badge/DEV-LARAVEL-green)](https://github.com/me42th?tab=repositories) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-green?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/me42th/)](https://www.linkedin.com/in/me42th/)
 ---------------------------------------------------------
 
 Consigo atuar como fullstack, apesar do meu forte ser tela preta, banco de dados e back-end!
