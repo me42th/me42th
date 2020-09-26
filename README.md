@@ -1,7 +1,9 @@
 [![me42th](https://img.shields.io/badge/DEV-PHP-green)](https://github.com/me42th?tab=repositories) [![me42th](https://img.shields.io/badge/DEV-LARAVEL-green)](https://github.com/me42th?tab=repositories) [![me42th](https://img.shields.io/badge/LINKEDIN-green)](https://www.linkedin.com/in/me42th/)  
 ---------------------------------------------------------
 
-Tenho experiencia como desenvolvedor de sustentação em projetos legados. Consigo atuar como fullstack, apesar do meu forte ser tela preta, banco de dados e back-end!
+Consigo atuar como fullstack, apesar do meu forte ser tela preta, banco de dados e back-end!
+
+Tenho experiencia como desenvolvedor em projetos legados e com tecnologias mais recentes, sempre tento escrever código com alguma qualidade.  
 
 Sou entusiasta do software livre, apaixonado pelo Linux e acho o Scrum fascinante.
 
@@ -11,11 +13,6 @@ Sou entusiasta do software livre, apaixonado pelo Linux e acho o Scrum fascinant
 
 --------------------------------------------------------
 
-
-<img src="https://user-images.githubusercontent.com/26856017/94344142-a21a7480-fff3-11ea-9195-dd83918c2361.jpg" alt="familia" align="center" width="400"/>
-
----------------------------------------------------------
-
 Eu realmente amo o que faço, e ainda tenho a sorte de ter as pessoas que mais amo curtindo isso junto:
 
 Sou programador, casado com uma programadora e pai de um pequeno programador de dez anos. Sou realmente apaixonado pelo que faço e acho que isso acabou contagiando o pobre do meu bacuri. 
@@ -23,3 +20,10 @@ Sou programador, casado com uma programadora e pai de um pequeno programador de 
 Ele faz pequenos joguinhos como esse **[AQUI](https://scratch.mit.edu/projects/422721105/fullscreen/)** que você pode tocar um teclado com algumas notas musicais. 
 
 ---------------------------------------------------------
+
+
+<img src="https://user-images.githubusercontent.com/26856017/94344142-a21a7480-fff3-11ea-9195-dd83918c2361.jpg" alt="familia" align="center" width="400"/>
+
+---------------------------------------------------------
+
+
