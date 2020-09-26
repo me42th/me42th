@@ -18,4 +18,4 @@ Ele faz pequenos joguinhos como esse **[AQUI](https://scratch.mit.edu/projects/4
 ---------------------------------------------------------
 
 
-<img src="https://user-images.githubusercontent.com/26856017/94344142-a21a7480-fff3-11ea-9195-dd83918c2361.jpg" alt="familia" align="center" width="400"/>
+<img src="https://user-images.githubusercontent.com/26856017/94348695-af942680-0014-11eb-9e09-787039ee9894.png" alt="familia" align="center" width="400"/>
