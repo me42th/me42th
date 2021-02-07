@@ -23,7 +23,7 @@ Ele faz pequenos joguinhos como esse **[AQUI](https://scratch.mit.edu/projects/4
 
 ----------------------------------------------------------
 
-<p align="center">
+<p>
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me42th&hide=html&layout=compact" />
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=me42th&show_icons=true" />
   <img width="800px" src="https://github-profile-trophy.vercel.app/?username=me42th" />
