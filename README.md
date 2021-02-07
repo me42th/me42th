@@ -21,3 +21,11 @@ Ele faz pequenos joguinhos como esse **[AQUI](https://scratch.mit.edu/projects/4
 
 <img src="https://user-images.githubusercontent.com/26856017/94348695-af942680-0014-11eb-9e09-787039ee9894.png" alt="familia" align="center" width="400"/>
 
+----------------------------------------------------------
+
+<p align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me42th&hide=html&layout=compact" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=me42th&show_icons=true" />
+  <img width="800px" src="https://github-profile-trophy.vercel.app/?username=me42th" />
+
+</p>
