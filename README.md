@@ -1,6 +1,9 @@
 [![me42th](https://img.shields.io/badge/DEV-PHP-green)](https://github.com/me42th?tab=repositories) [![me42th](https://img.shields.io/badge/DEV-LARAVEL-green)](https://github.com/me42th?tab=repositories) [![me42th](https://img.shields.io/badge/🎶-DEEZER-green)](http://www.deezer.com/playlist/6796377284) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-green?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/me42th/)](https://www.linkedin.com/in/me42th/) 
 ----------------------------------------------------------
 
+<img src="https://i.ibb.co/BsjPGDC/video4992440852107231948.gif" alt="quem sabe faz ao vivo" border="0" />
+
+-------------------------------------------------------------
 Sou entusiasta do software livre, apaixonado pelo Linux e acho o Scrum fascinante.
 Consigo atuar como fullstack, apesar do meu forte ser tela preta, banco de dados e back-end!
 
