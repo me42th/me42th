@@ -4,7 +4,8 @@
 Sou entusiasta do software livre, apaixonado pelo Linux e acho o Scrum fascinante.
 Consigo atuar como fullstack, apesar do meu forte ser tela preta, banco de dados, back-end e ser um desenvolvedor Laravel certificado!
 
-De vez em quando invento alguma coisa legal como esse pacote que te permite acessar o cli do laravel remotamente: https://packagist.org/packages/davidmeth/remote-shell
+De vez em quando invento alguma coisa legal como esse pacote que te permite acessar o cli do laravel remotamente: <br>
+https://packagist.org/packages/davidmeth/remote-shell
 
 --------------------------------------------------------
 
